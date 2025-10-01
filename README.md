@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzZqZjhtazF0b2dzOWVuMXM2MG1sdGtwcTg0cGx4eTRzYjF5cWsxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA3MHFkbGl5ZzQ0ODJuaW02eDl2ZGt5ajZ4MDF2c2M0cGpkYmFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
