@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/ sopuruchukwu-osuagwu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/davedmaverick" target="_blank">
+  <a href="https://x.com/davetmaverick" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/davethemaverick" target="_blank">
