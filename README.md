@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">👩‍💻  <strong>About Me</strong></h3>
 
-<h4 align="left">🙋‍♂️I'm Dave from Imo state, Nigeria<br><br>- 🏫 student at the University of Lagos<br>- 💻I'm currently learning Full-Stack Web Development<br>- 🚀Interested in building useful, scalable apps and contributing to **open-source projects<br>-📚Passionate about tech, art, music, and photography<br>-⚡Fun fact: I can balance anatomy, textbooks, with debugging code at the same time 😂<br>-🎯Goal: Become a skilled developer, create impact, and make the people I love proud.</h4>
+<h4 align="left">🙋‍♂️I'm Dave from Imo state, Nigeria<br><br>- 🏫 student at the University of Lagos<br>- 💻I'm currently learning Full-Stack Web Development<br>- 🚀Interested in building useful, scalable apps and contributing to open-source projects<br>-📚Passionate about tech, art, music, and photography<br>-⚡Fun fact: I can balance anatomy, textbooks, with debugging code at the same time 😂<br>-🎯Goal: Become a skilled developer, create impact, and make the people I love proud.</h4>
 
 ###
 
